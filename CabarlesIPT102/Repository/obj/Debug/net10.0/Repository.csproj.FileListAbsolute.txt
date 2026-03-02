@@ -1,0 +1,12 @@
+D:\New folder\CabarlesIPT102\Repository\bin\Debug\net10.0\Repository.deps.json
+D:\New folder\CabarlesIPT102\Repository\bin\Debug\net10.0\Repository.dll
+D:\New folder\CabarlesIPT102\Repository\bin\Debug\net10.0\Repository.pdb
+D:\New folder\CabarlesIPT102\Repository\obj\Debug\net10.0\Repository.csproj.AssemblyReference.cache
+D:\New folder\CabarlesIPT102\Repository\obj\Debug\net10.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\CabarlesIPT102\Repository\obj\Debug\net10.0\Repository.AssemblyInfoInputs.cache
+D:\New folder\CabarlesIPT102\Repository\obj\Debug\net10.0\Repository.AssemblyInfo.cs
+D:\New folder\CabarlesIPT102\Repository\obj\Debug\net10.0\Repository.csproj.CoreCompileInputs.cache
+D:\New folder\CabarlesIPT102\Repository\obj\Debug\net10.0\Repository.dll
+D:\New folder\CabarlesIPT102\Repository\obj\Debug\net10.0\refint\Repository.dll
+D:\New folder\CabarlesIPT102\Repository\obj\Debug\net10.0\Repository.pdb
+D:\New folder\CabarlesIPT102\Repository\obj\Debug\net10.0\ref\Repository.dll
